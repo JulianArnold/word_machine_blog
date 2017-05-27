@@ -1,0 +1,1 @@
+As mentioned in Learn Enough Command Line to Be Dangerous, touch is designed to

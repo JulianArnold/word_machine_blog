@@ -16,4 +16,4 @@
 //= require turbolinks
 //= require_tree .
 
-$(function() { alert('if you see this, the pipeline works'); } );
+// $(function() { alert('if you see this, the pipeline works'); } );

@@ -1,2 +1,7 @@
-<h1>StaticPages#home</h1>
-<p>Find me in app/views/static_pages/home.html.erb</p>
+<% provide(:title, "Home") %>
+
+<h1>Word Machine Home</h1>
+<p>
+  This is the link to the <%= link_to("http://www.worldmachine.ie/", target: '_blank') do %>World Machine
+  <% end %> home page.
+</p>
