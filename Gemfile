@@ -48,6 +48,9 @@ group :development, :test do
   gem 'byebug'
   gem 'rubocop'
   gem 'annotate'
+  gem 'minitest-reporters'
+  gem 'guard'
+  gem 'guard-minitest'
 end
 
 group :development do
