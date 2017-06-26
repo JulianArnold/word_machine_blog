@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title><%= yield(:title) %> | Word Machine Blog</title>
+  <title><%= full_title(yield(:page_title)) %></title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -21,11 +21,13 @@
   <body>
 
     <%= yield %>
-    <p>
-      <%= link_to 'Home | ', static_pages_home_path %>
-      <%= link_to 'Help | ', static_pages_help_path %>
-      <%= link_to 'About | ', static_pages_about_path %>
-      <%= link_to 'Contact', static_pages_contact_path %>
-    </p>
+
+    <br />
+    <div class="btn-group">
+      <%= link_to 'Home', static_pages_home_path, class: 'btn btn-primary' %>
+      <%= link_to 'Help', static_pages_help_path, class: 'btn btn-primary' %>
+      <%= link_to 'About', static_pages_about_path, class: 'btn btn-primary' %>
+      <%= link_to 'Contact', static_pages_contact_path, class: 'btn btn-primary' %>
+    </div>
   </body>
 </html>

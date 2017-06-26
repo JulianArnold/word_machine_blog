@@ -129,7 +129,7 @@
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v4.2.8, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v4.2.8, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v4.2.8, rbenv: 2.3.1) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="annotate (v2.7.1, rbenv: 2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="annotate (v2.7.2, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ansi (v1.5.0, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v6.0.4, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ast (v2.3.0, rbenv: 2.3.1) [gem]" level="application" />
@@ -181,7 +181,7 @@
     <orderEntry type="library" scope="PROVIDED" name="pg (v0.20.0, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="powerpack (v0.1.1, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="pry (v0.10.4, rbenv: 2.3.1) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="puma (v3.8.2, rbenv: 2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="puma (v3.9.1, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.6.8, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.3, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails (v4.2.8, rbenv: 2.3.1) [gem]" level="application" />
@@ -193,7 +193,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rails_stdout_logging (v0.0.5, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v4.2.8, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rainbow (v2.2.2, rbenv: 2.3.1) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v11.3.0, rbenv: 2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v12.0.0, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-fsevent (v0.9.8, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-inotify (v0.9.8, rbenv: 2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v4.3.0, rbenv: 2.3.1) [gem]" level="application" />
