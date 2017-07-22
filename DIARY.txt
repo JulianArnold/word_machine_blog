@@ -1,1 +1,6 @@
-As mentioned in Learn Enough Command Line to Be Dangerous, touch is designed to
+20170716: At the exercise part of hashes & symbols.
+
+20170715: "Hash values can be virtually anything, even other hashes, as seen in Listing 4.13." Review prior to doing
+the exercises.
+
+20170714: "7. For example, consider a hash named flash with keys for two conditions, :success and :danger:"
