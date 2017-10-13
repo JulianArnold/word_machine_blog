@@ -1,3 +1,6 @@
+20170724: Exercises part of Ruby Class Constructors; hashes and arrays I get but initial values vs. default values trip
+me up a little.
+
 20170716: At the exercise part of hashes & symbols.
 
 20170715: "Hash values can be virtually anything, even other hashes, as seen in Listing 4.13." Review prior to doing

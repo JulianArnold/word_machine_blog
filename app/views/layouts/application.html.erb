@@ -19,9 +19,6 @@
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
 </head>
   <body>
-
-    <%= yield %>
-
     <br />
     <div class="btn-group">
       <%= link_to 'Home', static_pages_home_path, class: 'btn btn-primary' %>
@@ -29,5 +26,7 @@
       <%= link_to 'About', static_pages_about_path, class: 'btn btn-primary' %>
       <%= link_to 'Contact', static_pages_contact_path, class: 'btn btn-primary' %>
     </div>
+    <br />
+    <%= yield %>
   </body>
 </html>
